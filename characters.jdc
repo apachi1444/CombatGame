@@ -1,0 +1,106 @@
+Character
+	Classe			Mage
+	Nom				Gandalf
+	Vitesse			23
+	Attaque			13
+	Intelligence	20
+	HP				150
+	Defense			12
+	Dodge			0.12
+	Agilite			15
+EndCharacter
+
+
+Character
+	Classe			Guerrier
+	Nom				Leoric
+	HP				230
+	Dodge			0.12
+	Attaque			20
+	Defense			34
+	Agilite			11
+	Vitesse			27
+	Intelligence	12
+	Special			0.06
+EndCharacter
+
+
+Character
+	Classe			Archer
+	Nom				Sylvanas Coursevent
+	Vitesse			21
+	Attaque			14
+	Dodge			0.12
+	Defense			23
+	Intelligence	12
+	Agilite			17
+	HP				175
+EndCharacter
+
+
+Character
+	Classe			Mage
+	Nom				Jaina Portvaillant
+	Attaque			14
+	Intelligence	19
+	Dodge			0.12
+	Defense			14
+	HP				125
+	Vitesse			22
+	Agilite			17
+EndCharacter
+
+
+Character
+	Classe			Voleur
+	Nom				Garona
+	Intelligence	9
+	Vitesse			19
+	Attaque			12
+	HP				170
+	Special			0.2
+	Defense			20
+	Agilite			17
+	Dodge			0.25
+EndCharacter
+
+
+Character
+	Classe			Guerrier
+	Nom				Xena
+	Attaque			26
+	HP				240
+	Defense			37
+	Special			0.08
+	Intelligence	12
+	Dodge			0.12
+	Agilite			12
+	Vitesse			19
+EndCharacter
+
+
+Character
+	Classe			Voleur
+	Nom				Jorach Ravenholdt
+	Intelligence	9
+	Vitesse			18
+	Attaque			11
+	HP				170
+	Special			0.22
+	Defense			21
+	Agilite			18
+	Dodge			0.2
+EndCharacter
+
+
+Character
+	Classe			Archer
+	Nom				Oliver Queen
+	Vitesse			22
+	Attaque			15
+	Intelligence	11
+	Defense			25
+	Agilite			16
+	HP				175
+	Dodge			0.12
+EndCharacter
